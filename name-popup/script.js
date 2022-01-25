@@ -1,5 +1,4 @@
-var color = prompt("give me a color");
-var body = Document.getElementsByTagName("BODY")[0];
+var color = prompt("Give me a color bro ;)");
+var el = document.getElementsByTagName("body")[0];
 console.log(el);
-el.style.backgroundcolor = color;
-
+el.style.backgroundColor = color;
